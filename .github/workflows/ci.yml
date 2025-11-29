@@ -28,4 +28,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: nathyshollz/devops-app:latest
+        tags: nathyshollz/devops-app:v1.0.0
